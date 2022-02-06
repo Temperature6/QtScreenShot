@@ -1,0 +1,7 @@
+#pragma once
+LIBRARY dirmover
+
+EXPORTS
+MoveDirectory
+FileScan
+MoveSingleFile
