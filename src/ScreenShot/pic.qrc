@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/add.png</file>
+        <file>pic/exit.png</file>
+        <file>pic/logo.png</file>
+        <file>pic/open_dir.png</file>
+        <file>pic/shot.png</file>
+        <file>pic/delete.png</file>
+        <file>pic/subject_dir.png</file>
+        <file>pic/size.png</file>
+        <file>pic/shot_start.png</file>
+        <file>pic/new.png</file>
+        <file>pic/move.png</file>
+        <file>pic/edit.png</file>
+        <file>pic/restart.png</file>
+        <file>pic/failed.png</file>
+        <file>pic/success.png</file>
+    </qresource>
+</RCC>
