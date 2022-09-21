@@ -650,7 +650,7 @@ void MainWindow::EditCfgFile()
         QString cfg_path = QDir::currentPath() + "/config.json";
         QStringList arg = { cfg_path };
         QProcess::startDetached("C:\\Windows\\system32\\notepad.exe", arg);
-        this->close();
+        Exit();
     }
     else
     {
